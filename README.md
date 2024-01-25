@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Whenever I Do Coding I Wear GLasses.
 
-Hi!
-My good name is Hanzla Shahid & I am the student of 1st Year. I have started learning Web Development in Aug 2023. I started from HTML(Hypertext Markup Language) & then as follows Css,Javascript
-and then a famous Javascript Library React Js. Now, I am on backend means Node Js. That's my small intro.
-Thanks!
+Greetings,
+
+Allow me to introduce myself—Hanzla Shahid. Currently enrolled as a 1st-year student, I embarked on my journey into the realm of Web Development in August 2023. My exploration commenced with the fundamental HTML (Hypertext Markup Language), progressing seamlessly to CSS, Javascript, and culminating with proficiency in the renowned Javascript Library, React Js. Presently, I am delving into backend development with Node Js. This serves as a brief overview of my educational and professional endeavors.
+
+Thank you for your attention.
